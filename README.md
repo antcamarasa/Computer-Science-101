@@ -1,4 +1,4 @@
-# computer_architecture
+# Computer architecture
 * [From Nand to tetris](#from-nand-to-tetris)
 
 # From nand to tetris
