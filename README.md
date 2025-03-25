@@ -12,3 +12,5 @@ Coursera form nand to tetris
 
 # Computer Architecture, a quantitative apparoach
 * [Lien pdf](https://www.cse.iitd.ac.in/~rijurekha/col216/quantitative_approach.pdf)
+
+
