@@ -92,3 +92,35 @@ The ultimate guide to computer science.
 ### 🛠 Projet Final du Mois 5 :
 ✅ Créer un interpréteur minimaliste (ex: mini langage type LISP ou Python-like).
 ✅ Coder un compilateur simple vers bytecode (ex: générer un fichier exécutable à partir d’un code source simple).
+
+### 🛑 Ce que tu peux laisser de côté pour plus tard :
+❌ Optimisations avancées (ex: SSA, inlining, vectorisation) → Mieux après une première implémentation.
+❌ Compilation JIT (ex: LLVM, Tracing JIT) → Trop complexe pour une première approche.
+❌ Théorie avancée des langages formels → Pas indispensable pour construire ton premier interpréteur.
+
+
+## Milesone 6 :  Mois 6 : Bases de données & Systèmes distribués
+### 🔹 Ce qu'il faut absolument connaître :
+- Bases des bases de données relationnelles : stockage, indexation, transactions, ACID
+- Systèmes distribués : cohérence, consensus, réplication
+- Étude d’un moteur de base de données (PostgreSQL, SQLite, Redis)
+- Implémentation d’un système distribué simple
+- Stanford Database
+- Build your own databse redis c/c++
+
+| Mois    |  Ressources                                          | Compétences                   
+|---------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1       | Stanford Database (CS 145)                           | 
+| 2       | CMU 15-445: Database Systems                         | 
+| 3       | Build Your Own Redis (C/C++)                         | 
+| 4       | MIT 6.824 (Distributed Systems)                      | Cours référence pour comprendre les systèmes distribués
+| 5       | Designing Data-Intensive Applications (DDIA)         | Le livre de référence sur les architectures modernes
+| 5       | Raft / Paxos Papers                                  | Comprendre le consensus distribué (lecture rapide)
+
+🛠️ Projet final du mois
+- Projet : Implémenter un moteur clé-valeur simple en C/C++ (Redis ou SQLite minimal)
+- Projet : Implémenter un consensus distribué simple (Raft, Paxos minimal)
+
+## Milestone 7 : Architecture Logicielle
+* The Art of Scalability
+* Patterns of Enterprise Application Architecture
